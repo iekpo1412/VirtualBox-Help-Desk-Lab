@@ -75,4 +75,6 @@ Re-enabled the local user account using an elevated Command Prompt and verified 
 
 ## Screenshots
 
-Screenshots below demonstrate the VirtualBox lab environment and account verification.
+### VirtualBox Lab Environment
+
+![VirtualBox Lab Environment](virtualbox-environment.png.PNG)
