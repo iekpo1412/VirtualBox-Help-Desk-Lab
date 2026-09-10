@@ -78,3 +78,9 @@ Re-enabled the local user account using an elevated Command Prompt and verified 
 ### VirtualBox Lab Environment
 
 ![VirtualBox Lab Environment](virtualbox-enviroment.png.PNG)
+
+### Account Status Verification
+
+![Account Status Verification](account-active-verfication.png.PNG)
+
+The `mreed` local account showing an active status after troubleshooting and restoring user access.
