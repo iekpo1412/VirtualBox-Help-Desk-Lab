@@ -98,20 +98,22 @@ An individual process can be run with administrative privileges without permanen
 
 ## Screenshots
 
+## Screenshots
+
 ### UAC Administrator Prompt
 
-![UAC Administrator Prompt](uac-admin-prompt.png)
+![UAC Administrator Prompt](uac-admin-prompt.png.PNG)
 
 Standard user encountering a UAC credential prompt when attempting an administrative action.
 
 ### Standard vs Administrator Context
 
-![Standard vs Administrator](standard-vs-admin-whoami.png)
+![Standard vs Administrator](standard-vs-admin-whoami.png.PNG)
 
 Comparison demonstrating the difference between the standard user's context and an elevated administrative process.
 
 ### User and Workstation Verification
 
-![User and Workstation Verification](user-and-hostname-verification.png)
+![User and Workstation Verification](user-and-hostname-verification.png.PNG)
 
 Using `whoami` and `hostname` to identify the current user and workstation.
