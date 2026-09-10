@@ -77,4 +77,4 @@ Re-enabled the local user account using an elevated Command Prompt and verified 
 
 ### VirtualBox Lab Environment
 
-![VirtualBox Lab Environment](virtualbox-environment.png.PNG)
+![VirtualBox Lab Environment](virtualbox-enviroment.png.PNG)
