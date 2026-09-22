@@ -78,3 +78,21 @@ Access was assigned to the Finance security group instead of directly to an indi
 ## Result
 
 The user successfully accessed `\\DC01\Finance` from PC01 and created a test file. The resolution was documented in Spiceworks, communicated to the user, and the ticket was closed.
+
+## Screenshots
+
+### Initial Finance Share Access Error
+
+![Finance share access error](screenshots/01-finance-access-error.png)
+
+### User and Finance Group Verification
+
+![User and Finance group verification](screenshots/02-user-group-verification.png)
+
+### Share and NTFS Permission Verification
+
+![Share and NTFS permissions](screenshots/03-permissions-verification.png)
+
+### Finance Share Access Restored
+
+![Finance share successfully opened](screenshots/04-finance-access-restored.png)
